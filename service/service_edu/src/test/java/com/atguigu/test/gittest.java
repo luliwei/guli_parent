@@ -6,5 +6,6 @@ public class gittest {
         System.out.println("更新2");
         System.out.println("更新3");
         System.out.println("创建分支dev");
+        System.out.println("主干添加");
     }
 }
